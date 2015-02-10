@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is a test file
 wahahahahahah:wq
+=======
+leave and peaaaathis is a test file
+>>>>>>> eeaf0f78f2b709091b04320f6deb2e67451c1417
